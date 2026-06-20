@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossword_Backend_Library", "Crossword_Backend_Library\Crossword_Backend_Library.csproj", "{C5409D6B-4DC4-4A0E-847C-BA82576E3773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Crossword_App", "WPF_Crossword_App\WPF_Crossword_App.csproj", "{01CAD470-4DD6-4A87-BF33-1C0C7EDF944E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5409D6B-4DC4-4A0E-847C-BA82576E3773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5409D6B-4DC4-4A0E-847C-BA82576E3773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5409D6B-4DC4-4A0E-847C-BA82576E3773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5409D6B-4DC4-4A0E-847C-BA82576E3773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01CAD470-4DD6-4A87-BF33-1C0C7EDF944E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01CAD470-4DD6-4A87-BF33-1C0C7EDF944E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01CAD470-4DD6-4A87-BF33-1C0C7EDF944E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01CAD470-4DD6-4A87-BF33-1C0C7EDF944E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DFA6E63-FC92-49E0-838B-0E7286F9B8CA}
+	EndGlobalSection
+EndGlobal
