@@ -4,9 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Crossword_Backend_Library.ApiAndFileClasses
+namespace Crossword_Backend_Library.FetcherClasses;
+
+public class AiClueFetcher
 {
-    internal class PuzzleFetcher
-    {
-    }
 }
